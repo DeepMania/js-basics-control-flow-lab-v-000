@@ -26,10 +26,6 @@ function switchOnCharmFromTip (tip) {
 
   let driverMessage;
 
-  switch (tip) {
-    case "generous"
-    driverMessage = "Thank you so much."
 
-  }
   return driverMessage;
 }
