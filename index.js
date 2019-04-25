@@ -34,7 +34,7 @@ function switchOnCharmFromTip (tip) {
       driverMessage = "Thank you."
       break;
     default:
-    console.log("Bye.");
+    driverMessage = "Bye."
       break;
 
   }
