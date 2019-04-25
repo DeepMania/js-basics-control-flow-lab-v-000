@@ -15,7 +15,7 @@ function scuberGreetingForFeet(distanceFeet) {
 
 function ternaryCheckCity (city) {
   let driverMessage;
-  city = 'NYC' ? driverMessage = "Ok, sounds good." : driverMessage = "No go."
+  city = 'NYC' ? (driverMessage = "Ok, sounds good.") : (driverMessage = "No go.")
 
   return driverMessage;
 }
