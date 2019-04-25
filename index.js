@@ -14,5 +14,5 @@ function scuberGreetingForFeet(distanceFeet) {
 }
 
 function ternaryCheckCity (city) {
-  let driverMessage
+  let driverMessage;
 }
