@@ -31,4 +31,5 @@ function switchOnCharmFromTip (tip) {
     driverMessage = "Thank you so much."
   
   }
+  return driverMessage;
 }
