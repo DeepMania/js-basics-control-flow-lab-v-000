@@ -22,6 +22,8 @@ function ternaryCheckCity (city) {
   return driverMessage;
 }
 
-function switchOnCharmFromTip () {
+function switchOnCharmFromTip (tip) {
+
+  let driverMessage;
   
 }
