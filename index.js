@@ -33,7 +33,7 @@ function switchOnCharmFromTip (tip) {
     case "not as generous" :
       driverMessage = "Thank you."
       break;
-    default: 
+    default:
     console.log("Bye.");
       break;
 
