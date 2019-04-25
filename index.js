@@ -9,6 +9,8 @@ function scuberGreetingForFeet(distanceFeet) {
       driverMessage = "I will gladly take your thirty bucks."
     }
 
+      else
+      driverMessage = "No can do."
 
     return driverMessage;
 }
