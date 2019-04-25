@@ -1,6 +1,6 @@
 // Write your code in this file!
 function scuberGreetingForFeet(distanceFeet) {
-  let driverMessage
+  let driverMessage;
   if (distanceFeet <= 400) {
     driverMessage = "This one is on me!"
   }
@@ -13,6 +13,6 @@ function scuberGreetingForFeet(distanceFeet) {
     return driverMessage;
 }
 
-function ternaryCheckCity () {
-  
+function ternaryCheckCity (city) {
+  let driverMessage
 }
