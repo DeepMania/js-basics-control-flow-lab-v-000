@@ -5,7 +5,7 @@ function scuberGreetingForFeet(distanceFeet) {
     driverMessage = "This one is on me!"
   }
 
-    if (distanceFeet >= 2000 ) {
+    else if (distanceFeet >= 2000 ) {
       driverMessage = "I will gladly take your thirty bucks."
     }
     return driverMessage;
